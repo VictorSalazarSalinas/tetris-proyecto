@@ -1,0 +1,25 @@
+-crear una pantalla en arcade /
+-visualizar el sprite
+-crear las piezas
+	-colores a aletorios
+	-piezas rotas? o crear funcion para girarlas
+-hacer que se muevan
+	-implementar actulizacion
+	-implementar el movimiento con las flechas
+		-flecha arriba rotar
+		-flecha izquierda , derecha mover
+		-flecha abajo mover mas rapido
+		-espacio mandar abajo
+		-shift guardadar o intercambiar ficha
+	-velocidad para lo siguientes niveles
+-colisiones
+	-comprobar que se pueda mover y no choquen con las demas piezas
+-crear sistema para hacer que caigan 
+-crear sistema para puntacion y eliminacion de filas
+	-en base a la puntacion ir acelerando las fichas
+-mostrar ficha siguientes y ficha guardada
+-sonidos
+	-sonido ost 
+	-sonido de rotacion
+	-sonido de eliminacion de filas
+	-sonido de perder
